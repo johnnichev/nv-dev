@@ -1,0 +1,11 @@
+{
+  "name": "nv-dev",
+  "version": "1.0.0",
+  "description": "nv:dev — Development workflow skills: plan, test, debug. Spec-driven development, TDD with property/mutation testing, systematic 4-phase debugging.",
+  "type": "module",
+  "keywords": ["ai-agents", "tdd", "testing", "debugging", "planning", "spec-driven", "claude-code", "cursor", "copilot"],
+  "author": "johnnichev",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/johnnichev/nv-dev" },
+  "homepage": "https://github.com/johnnichev/nv-dev"
+}
